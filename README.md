@@ -38,7 +38,7 @@ Here are a few projects I've worked on:
 ## 📫 Connect with Me
 
 - 🔗 [LinkedIn](#) (www.linkedin.com/in/specialistdaniel ) 
-- 🌐 [Portfolio Website](#) *(Optional – if you have or plan to build one)*  
+- 🌐 [Portfolio Website](#) (https://udungdaniel.github.io/profile/)
 - 📧 Email: (danielalfred783@gmail.com)
 
 ---
