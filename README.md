@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Daniel Udung
+# 👋 Hi, I'm Daniel Alfred
 
 🎓 I’m a **Software Development student at BYU–Idaho**  
 💻 Currently working as a **Front-End Developer**  
